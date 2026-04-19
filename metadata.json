@@ -1,0 +1,6 @@
+{
+  "name": "UrgencyResponse",
+  "description": "Mobile platform for NGOs to track crises via heatmaps, process field data with Vision AI, and coordinate volunteers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
